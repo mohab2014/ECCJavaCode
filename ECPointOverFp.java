@@ -109,15 +109,6 @@ class BComp implements Comparator
 
 
 
-      /**
-       *
-       * <p>Title: Encryption System</p>
-       * <p>Description: Elliptic curve over Fp points operations: addition + mult.</p>
-       * <p>Copyright: Copyright (c) 2005</p>
-       * <p>Company: Fania RD</p>
-       * @author RD
-       * @version 1.2
-       */
 public class ECPointOverFp implements Serializable
 {
 
